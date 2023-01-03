@@ -20,4 +20,5 @@ $(function () {
   // attribute of each time-block be used to do this?
   //
   // TODO: Add code to display the current date in the header of the page.
+  dayjs('2019-01-25').format('DD/MM/YYYY')
 });
